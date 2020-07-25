@@ -3,4 +3,5 @@ name: Haytada Gaming
 title: Haytada Gaming
 description: Welcome to Haytada Gaming!
 github:
-  is_project_page: false
+ 
+is_project_page: false
