@@ -1,6 +1,5 @@
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-hacker
-title: Haytada Gaming
-description: Welcome to Haytada Gaming!
-permalink: /haytadagaming.xyz
-github:
- is_project_page: false
