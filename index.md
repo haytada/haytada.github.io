@@ -1,4 +1,4 @@
-# Haytada Gaming
+![Haytada Gaming](Haytada Final.png)
 
 ## Landing Page
 
