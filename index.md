@@ -24,4 +24,4 @@ Consider supporting the community on Patreon for exclusive Discord related conte
 
 ### Our Patrons
 
-Aspekt (Tier 2)
+- Aspekt (Tier 2)
