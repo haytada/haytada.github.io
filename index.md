@@ -14,6 +14,8 @@ Welcome to the Haytada Gaming "splash" page! A little bit about us, we are a gam
 
 # Minecraft Server
 
+----
+
 ![Minecraft](Minecraft.png)  
 
 We have our very own dedicated Minecraft Server! Either take your time, mine and build something spectacular in our **Gaia Prime** world or go all out in our **Tellus** PvP world that we wipe once a month. You can find the details to log on below:  
@@ -24,6 +26,8 @@ We have our very own dedicated Minecraft Server! Either take your time, mine and
 ----
 
 # Patreon
+
+----
 
 Consider supporting the community on Patreon for exclusive Discord related content as well as Minecraft in-game perks. Take a look at the page by clicking on the button:
 
