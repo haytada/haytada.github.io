@@ -14,7 +14,7 @@ This page serves as a landing page to direct you to all the places we are curren
 We have our very own dedicated Minecraft Server! Either take your time, mine and build something spectacular in our **Gaia Prime** world or go all out in our **Tellus** PvP world that we wipe once a month. You can find the details to log on below:  
 
 > IP: mc.haytadagaming.xyz
->> Please join our Discord (link above) to familiarise yourself with the rules. 
+> Please join our Discord (link above) to familiarise yourself with the rules. 
 
 # Patreon
 
