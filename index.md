@@ -21,3 +21,7 @@ We have our very own dedicated Minecraft Server! Either take your time, mine and
 Consider supporting the community on Patreon for exclusive Discord related content as well as Minecraft in-game perks. Take a look at the page by clicking on the button:
 
 [![Patreon](Patreon.png)](https://www.patreon.com/haytada)
+
+### Our Patrons
+
+Aspekt (Tier 2)
