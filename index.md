@@ -10,6 +10,8 @@ Welcome to the Haytada Gaming "splash" page! A little bit about us, we are a gam
 [![Twitter](Twitter.png)](https://www.twitter.com/haytadagaming)
 [![Steam](Steam.png)](https://steamcommunity.com/groups/haytada)
 
+----
+
 # Minecraft Server
 
 ![Minecraft](Minecraft.png)  
@@ -18,6 +20,8 @@ We have our very own dedicated Minecraft Server! Either take your time, mine and
 
 > IP: mc.haytadagaming.xyz  
 > Please join our Discord (link above) to familiarise yourself with the rules. 
+
+----
 
 # Patreon
 
