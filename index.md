@@ -22,6 +22,6 @@ Consider supporting the community on Patreon for exclusive Discord related conte
 
 [![Patreon](Patreon.png)](https://www.patreon.com/haytada)
 
-### Our Patrons
+### Our Patrons:
 
 - Aspekt (Tier 2)
