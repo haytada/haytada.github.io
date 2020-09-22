@@ -9,6 +9,7 @@ Welcome to the Haytada Gaming "splash" page! A little bit about us, we are a gam
 [![YouTube](YouTube.png)](https://www.youtube.com/channel/UCq47SvfvPnVSp7m5DLXZW7Q)
 [![Twitter](Twitter.png)](https://www.twitter.com/haytadagaming)
 [![Steam](Steam.png)](https://steamcommunity.com/groups/haytada)
+[![Reddit](Reddit.png)](https://www.reddit.com/r/haytadagaming/)
 
 ----
 
