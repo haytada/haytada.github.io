@@ -21,19 +21,6 @@ We've launched a subreddit! Check out [r/haytadagaming](https://www.reddit.com/r
 
 ----
 
-# Minecraft Server
-
-----
-
-![Minecraft](Minecraft.png)  
-
-We have our very own dedicated Minecraft Server! Either take your time, mine and build something spectacular in our **Gaia Prime** world or go all out in our **Tellus** PvP world that we wipe once a month. You can find the details to log on below:  
-
-> IP: mc.haytadagaming.xyz  
-> Please join our Discord (link above) to familiarise yourself with the rules. 
-
-----
-
 # Patreon
 
 ----
@@ -45,3 +32,17 @@ Consider supporting the community on Patreon for exclusive Discord related conte
 ### Our Patrons:
 
 - Aspekt (Tier 2)
+- Serenscorpio (Tier 1)
+
+----
+
+# Minecraft Server
+
+----
+
+![Minecraft](Minecraft.png)  
+
+We have our very own dedicated Minecraft Server! Either take your time, mine and build something spectacular in our **Gaia Prime** world or go all out in our **Tellus** PvP world that we wipe once a month. You can find the details to log on below:  
+
+> IP: mc.haytadagaming.xyz  
+> Please join our Discord (link above) to familiarise yourself with the rules. 
