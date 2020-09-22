@@ -15,7 +15,9 @@ Welcome to the Haytada Gaming "splash" page! A little bit about us, we are a gam
 
 # Community Subreddit
 
-We've launched a subreddit! Check out [r/haytadagaming](https://www.reddit.com/r/haytadagaming/)
+----
+
+We've launched a subreddit! Check out [r/haytadagaming](https://www.reddit.com/r/haytadagaming/) or click on the icon at the top!
 
 ----
 
