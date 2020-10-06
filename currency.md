@@ -1,3 +1,7 @@
+layout: page
+title: "Currency"
+permalink: /currency
+
 ![Haytada Gaming](HaytadaGaming.png)  
 
 ----
