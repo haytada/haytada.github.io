@@ -29,13 +29,13 @@ You can always choose to gamble your points! These commands need to be used in t
 **!dice <1-6> (amount to bet)**
 
 ## All Commands
-```!points - See how many points you have.``` 
-```!leaderboard - See who has the most points in the server.```
-```!pay <user> (amount) - Pay the tagged user from your balance.```
-```!buy - See what items are for sale.```
-```!backpack - See what items you own.```
-```!coinflip - Bet points on a coinflip.```
-```!dice - Bet points on a dice roll.```
+```!points - See how many points you have.```  
+```!leaderboard - See who has the most points in the server.```  
+```!pay <user> (amount) - Pay the tagged user from your balance.```  
+```!buy - See what items are for sale.```  
+```!backpack - See what items you own.```  
+```!coinflip - Bet points on a coinflip.```  
+```!dice - Bet points on a dice roll.```  
 
 Any other questions then just ask!  
 *Points can be awarded and removed at staff's discretion.*
