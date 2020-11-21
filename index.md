@@ -13,6 +13,10 @@ Welcome to the Haytada Gaming "splash" page! A little bit about us, we are a gam
 
 Learn how our currency system works on Discord [here](https://haytadagaming.xyz/currency).
 
+<center><div class="discord">
+<iframe src="https://discordapp.com/widget?id=421989895020609537&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</div></center>
+
 ----
 
 # Community Subreddit
@@ -48,6 +52,3 @@ We have our very own dedicated Minecraft Server! Either take your time, mine and
 > IP: mc.haytadagaming.xyz  
 > Please join our Discord (link above) to familiarise yourself with the rules. 
 
-<div class="discord">
-<iframe src="https://discordapp.com/widget?id=421989895020609537&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</div>
