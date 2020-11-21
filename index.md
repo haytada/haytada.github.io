@@ -48,4 +48,6 @@ We have our very own dedicated Minecraft Server! Either take your time, mine and
 > IP: mc.haytadagaming.xyz  
 > Please join our Discord (link above) to familiarise yourself with the rules. 
 
+```html
 <iframe src="https://discordapp.com/widget?id=421989895020609537&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+```
