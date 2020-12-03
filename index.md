@@ -39,7 +39,9 @@ Consider supporting the community on Patreon for exclusive Discord related conte
 
 ### Our Patrons:
 
-- Serenscorpio (Tier 1)
+- Serenscorpio (Tier 1)  
+
+<iframe src="https://www.patreon.com/haytada?fan_landing=true" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
 
 ----
 
