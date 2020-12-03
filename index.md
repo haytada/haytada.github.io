@@ -10,7 +10,7 @@ Welcome to the Haytada Gaming "splash" page! A little bit about us, we are a gam
 [![Twitter](Twitter.png)](https://www.twitter.com/haytadagaming)
 [![Steam](Steam.png)](https://steamcommunity.com/groups/haytada)
 [![Reddit](Reddit.png)](https://www.reddit.com/r/haytadagaming/)
-[![Patreon](Patreon.png)](https://www.patreon.com/haytada)  
+[![Patreon](Patreon.png)](https://www.patreon.com/haytada)
 
 Learn how our currency system works on Discord [here](https://haytadagaming.xyz/currency).
 
