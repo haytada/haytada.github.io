@@ -5,12 +5,12 @@ Welcome to the Haytada Gaming "splash" page! A little bit about us, we are a gam
   
  
 [![Discord](Discord.png)](https://discord.gg/GrQgQTS)
-[![Twitch](Twitch.png)](https://twitch.tv/haytada)
+[![Twitch](Twitch.png)](https://twitch.tv/haytada)  
 [![YouTube](YouTube.png)](https://www.youtube.com/channel/UCq47SvfvPnVSp7m5DLXZW7Q)
-[![Twitter](Twitter.png)](https://www.twitter.com/haytadagaming)
+[![Twitter](Twitter.png)](https://www.twitter.com/haytadagaming)  
 [![Steam](Steam.png)](https://steamcommunity.com/groups/haytada)
-[![Reddit](Reddit.png)](https://www.reddit.com/r/haytadagaming/)
-[![Patreon](Patreon.png)](https://www.patreon.com/haytada)
+[![Reddit](Reddit.png)](https://www.reddit.com/r/haytadagaming/)  
+[![Patreon](Patreon.png)](https://www.patreon.com/haytada)  
 
 
 Learn how our currency system works on Discord [here](https://haytadagaming.xyz/currency).
