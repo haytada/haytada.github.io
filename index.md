@@ -33,7 +33,7 @@ We've launched a subreddit! Check out [r/haytadagaming](https://www.reddit.com/r
 
 ----
 
-Consider supporting the community on Patreon for exclusive Discord related content as well as Minecraft in-game perks. Take a look at the page by clicking on the button:
+Consider supporting the community on Patreon for exclusive Discord related content. Take a look at the page by clicking on the button:
 
 [![Patreon](Patreon.png)](https://www.patreon.com/haytada)
 
