@@ -1,4 +1,4 @@
-[![Haytada Gaming](HaytadaGaming.png)](https://haytadagaming.xyz)
+[![Sunset Reef](sunsetreedtransparent.png)](https://haytadagaming.xyz)
 
 ----
 # Currency Info (Discord)
