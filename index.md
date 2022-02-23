@@ -1,4 +1,4 @@
-![Haytada Gaming](HaytadaGaming.png)  
+![Sunset Reef](sunsetreedtransparent.png)  
 
 
 Welcome to the Sunset Reef "splash" page! A little bit about us, we are a gaming community that was started around the beginning of 2020 and since then have started to grow, slowly. We will happily welcome anyone into our various platforms, all we ask is that you want to engage and become a part of the community. We have a Discord server that is the main central point for communication as well as our newest addition... our own dedicated Minecraft server. Check out below where you can see all the places that we are active and come join us!  
