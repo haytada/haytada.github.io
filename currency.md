@@ -1,8 +1,7 @@
-<title>Sunset Reef</title>
 <meta content="Welcome to Sunset Reef!" property="og:title"/>
 <meta content="We're glad you made it to Sunset Reef. Feel free to make yourself at home!" property="og:description"/>
 <meta content="https://haytadagaming.xyz/currency" property="og:url"/>
-<meta content="https://github.com/haytada/haytada.github.io/blob/master/sunsetreedtransparent.png" property="og:image"/>
+<meta content="https://raw.githubusercontent.com/haytada/haytada.github.io/master/sunsetreedtransparent.png" property="og:image"/>
 <meta content="#F8E71C" data-react-helmet="true" name="theme-color"/>
 
 [![Sunset Reef](sunsetreedtransparent.png)](https://haytadagaming.xyz)
